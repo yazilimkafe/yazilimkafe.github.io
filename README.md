@@ -1,2 +1,2 @@
 # yazilimkafe.github.io
-web page
+Yazılım Kafe web site
